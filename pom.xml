@@ -14,7 +14,7 @@
     <name>fitness_tracker</name>
     <description>fitness_tracker</description>
     <properties>
-        <java.version>18</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
