@@ -1,0 +1,8 @@
+com.baki.fitness_tracker
+com.baki.fitness_tracker.controller
+com.baki.fitness_tracker.dbModel.excerciseModel
+com.baki.fitness_tracker.dbModel.userExcerciseModel
+com.baki.fitness_tracker.dbModel.userModel
+com.baki.fitness_tracker.repository
+com.baki.fitness_tracker.service
+com.baki.fitness_tracker.util
