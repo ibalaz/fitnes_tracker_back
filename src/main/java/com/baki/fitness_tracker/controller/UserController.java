@@ -16,7 +16,7 @@ import java.util.List;
  *
  * @author Baki
  */
-@CrossOrigin("localhost:3000")
+
 @RestController
 @RequestMapping("users")
 @Slf4j
